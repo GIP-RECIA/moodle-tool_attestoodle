@@ -158,10 +158,10 @@ p.no-validated-activity {
     border-bottom-color: #fff;
 }
 
-a.btn-create:link,
+/*a.btn-create:link,
 a.btn-create:visited {
     color: white;
-}
+}*/
 
 /* Progressbar certifcate generated */
 .attestoodle-progressbar-generation {
